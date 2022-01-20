@@ -184,7 +184,7 @@ img{
     background-repeat: no-repeat;
 }
 #home {
-    background-image: url(../images/white.jpeg);
+    background-image: url(white.jpeg);
     min-height: 100vh;
 }
 #home .page-title {
